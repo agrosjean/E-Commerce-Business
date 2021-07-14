@@ -161,4 +161,4 @@ Create the code needed in `server.js` to sync the Sequelize models to the MySQL 
 
 Youtube : https://www.youtube.com/watch?v=uvqWCruO1mc
 
-Github : https://github.com/agrosjean/Note-Taker
+Github : https://github.com/agrosjean/E-Commerce-Business
